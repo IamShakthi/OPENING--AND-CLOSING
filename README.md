@@ -19,8 +19,8 @@ Use Closing Operation
 
 ### Program:
 ```
-Developed by: Joyce Beulah R
-Register Number:212222230058
+Developed by : YUVASAKTHI N.C 
+Register Number:212222240120
 ```
 #### Display the input Image
 ```py
